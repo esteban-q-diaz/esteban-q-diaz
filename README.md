@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://linkedinpromo.s3-us-west-1.amazonaws.com/ESTEBAN+DIAZ.png)
+<img src="https://linkedinpromo.s3-us-west-1.amazonaws.com/ESTEBAN+DIAZ.png" width="100" height="100">
 
 <!--
 **esteban-q-diaz/esteban-q-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
