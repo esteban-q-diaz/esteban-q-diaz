@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Final Cut Pro" width="26px" src="https://www.vhv.rs/dpng/d/200-2006389_final-cut-pro-png-final-cut-pro-x.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/products/premiere.html?sdid=KKQOM&mv=search&kw=test&ef_id=Cj0KCQiAv6yCBhCLARIsABqJTjYEwBX75p3N4ZuN4dm00b9JjxzWJMl3EQ794A9VBKXW5Vb4p0wYKJgaAh1sEALw_wcB:G:s&s_kwcid=AL!3085!3!469900475446!e!!g!!adobe%20premiere%20pro&gclid=Cj0KCQiAv6yCBhCLARIsABqJTjYEwBX75p3N4ZuN4dm00b9JjxzWJMl3EQ794A9VBKXW5Vb4p0wYKJgaAh1sEALw_wcB" target="_blank"> <img align="left" alt="XD" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.ableton.com/en/" target="_blank"> <img align="left" alt="Ableton" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png"/> </a>
 <a href="https://www.avid.com/pro-tools" target="_blank"> <img align="left" alt="Protools" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/PT2019.png"/> </a>
