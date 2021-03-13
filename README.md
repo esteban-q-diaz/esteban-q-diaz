@@ -72,5 +72,5 @@ Here is a list of some of the stuff I've worked with
 <br />
 
 ## 📫 Get in touch
-* LinkedIn - [Esteban-Q-Diaz](https://in.linkedin.com/in/esteban-q-daz)
+* LinkedIn - [Esteban-Q-Diaz](https://www.linkedin.com/in/esteban-q-diaz/)
 * E-mail - Estebandpal@gmail.com
