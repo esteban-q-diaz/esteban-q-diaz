@@ -3,7 +3,7 @@
 ![](https://linkedinpromo.s3-us-west-1.amazonaws.com/ESTEBAN+DIAZ.png)
 
 
-Welcome to my page, I am a Full Stack Softwate Engineer who's career into programming began with music.  As an up-and-coming music artist I produced and performed music under the name REBRND (pronounced rebrand).  Ironically, it was the pursue of that career that set me on a trajectory to "rebrand" to a Software Engineer.  As I was creating my artist website I fell in love with web development and problem solving with JavaScript so I decided to pursue programming full time.  I recently graduated from Hack Reactor where I committed over 1000 hours of learning/coding, I am now working on several projects including my first full stack mobile application, exploring new technologies and looking to contribute and join a team full-time.  
+Welcome to my page, I am a Full Stack Softwate Engineer who's career into programming began with music.  As an up-and-coming music artist I produced and performed music under the name REBRND (pronounced rebrand).  Ironically, it was the pursue of that career that set me on a trajectory to "rebrand" to a Software Engineer.  As I was creating my artist website I fell in love with web development and problem solving with JavaScript so I decided to pursue programming full-time.  I recently graduated from Hack Reactor where I committed over 1000 hours of learning/coding, I am now working on several projects including my first full stack mobile application, exploring new technologies and looking to contribute and join a team full-time.  
 
 I love to learn, love to grow and love working on awesome projects.  
 <!--
