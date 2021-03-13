@@ -16,6 +16,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡ Tech Stack
+
+Here is a list of some of the stuff I've worked with
+
+* JavaScript
+* ReactJS
+* React Native (Expo) 
+* NodeJS
+* Express
+* PostgreSQL | MySQL | SQLite 
+* MongoDB
+* Git | Github
+* HTML | CSS
+* Firebase
+* Docker
+* Jest | Chai | Enzyme
+* AWS
+* Blender
+
 ### Languages and Tools:
 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png"/> </a>
