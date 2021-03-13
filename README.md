@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Tech Stack
 
-Here is a list of some of the stuff I've worked with
+Here is a list of some of the technologies I've worked with
 
 * JavaScript
 * ReactJS
