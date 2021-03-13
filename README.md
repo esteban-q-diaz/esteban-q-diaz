@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/> </a>
 
-<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="NodeJS" width="26px" src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="NodeJS" width="26px" src="https://jsremotely.com/static/icons/nodejs.png"/> </a>
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
