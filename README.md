@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Languages and Tools:
 
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png"/> </a>
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="26px" src="https://www.vhv.rs/dpng/d/22-221315_react-native-logo-hd-png-download.png"/> </a>
