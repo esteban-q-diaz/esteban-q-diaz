@@ -52,6 +52,5 @@ Here are some ideas to get you started:
 <br />
 
 ## 📫 Get in touch
-- LinkedIn - [Esteban-Q-Diaz](https://in.linkedin.com/in/esteban-q-daz)
-
- or give some ♥ on [mail](mailto:estebandpal@gmail.com) .
+* LinkedIn - [Esteban-Q-Diaz](https://in.linkedin.com/in/esteban-q-daz)
+* E-mail - Estebandpal@gmail.com
