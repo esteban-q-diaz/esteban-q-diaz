@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png"/> </a>
 
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="26px" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="26px" src="https://www.vhv.rs/dpng/d/22-221315_react-native-logo-hd-png-download.png"/> </a>
 
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="NodeJS" width="26px" src="https://jsremotely.com/static/icons/nodejs.png"/> </a>
 
