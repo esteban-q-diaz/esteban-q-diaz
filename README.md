@@ -3,9 +3,9 @@
 ![](https://linkedinpromo.s3-us-west-1.amazonaws.com/ESTEBAN+DIAZ.png)
 
 
-Welcome to my page, I am a Full Stack Softwate Engineer who's career infor prgramming began with music.  As an up and coming music artist I produced and performed music under the name REBRND (prnounced rebrand).  Ironically it was that pursue of that career that set me up to rebrand into a software engineer.  I was creating my artist website and fell in love with web development.  i decided to pursure it full-time and have been learning and growing ever since. 
+Welcome to my page, I am a Full Stack Softwate Engineer who's career into programming began with music.  As an up and coming music artist I produced and performed music under the name REBRND (prnounced rebrand).  Ironically, it was that pursue of that career that set me up to rebrand into a software engineer.  As I was creating my artist website I fell in love with web development and decided to pursue it full time.  I recently graduated from Hack Reactor and working on several projects including my first full stack mobile application.  
 
-I love to learn, love to grow and love meeting new people.  
+I love to learn, love to grow and love working on awesome projects.  
 <!--
 **esteban-q-diaz/esteban-q-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
